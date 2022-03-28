@@ -5,5 +5,10 @@
   "promptDelete": false,
   "spellcheck": true,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "useTab": true,
+  "autoPairMarkdown": true
 }

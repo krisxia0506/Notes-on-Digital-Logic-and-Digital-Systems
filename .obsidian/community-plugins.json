@@ -1,8 +1,6 @@
 [
-  "obsidian-plugin-toc",
   "table-editor-obsidian",
   "calendar",
   "sliding-panes-obsidian",
-  "obsidian-dynamic-toc",
-  "obsidian-git"
+  "obsidian-dynamic-toc"
 ]

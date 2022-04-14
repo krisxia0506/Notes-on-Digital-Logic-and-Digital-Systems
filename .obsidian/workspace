@@ -4,36 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "144e89f9ca30e5af",
+        "id": "7cfa1b0d51c51248",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2逻辑代数基础/2.2 逻辑代数中的运算.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "34095b9d65c2f9c3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4组合逻辑电路/4.1.2组合逻辑电路的设计.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "78f9ad6243c5b885",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4组合逻辑电路/4.1.2组合逻辑电路的设计.md",
+            "file": "4组合逻辑电路/4.2.1 中规模集成组合逻辑电路 编码器.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4组合逻辑电路/4.1.2组合逻辑电路的设计.md",
+                "file": "4组合逻辑电路/4.2.1 中规模集成组合逻辑电路 编码器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4组合逻辑电路/4.1.2组合逻辑电路的设计.md"
+                "file": "4组合逻辑电路/4.2.1 中规模集成组合逻辑电路 编码器.md"
               }
             }
           }
@@ -143,8 +119,10 @@
     "direction": "horizontal",
     "width": 295
   },
-  "active": "78f9ad6243c5b885",
+  "active": "7cfa1b0d51c51248",
   "lastOpenFiles": [
+    "4组合逻辑电路/4.2.1 中规模集成组合逻辑电路 编码器.md",
+    "README.md",
     "4组合逻辑电路/4.1.2组合逻辑电路的设计.md",
     "2逻辑代数基础/2.6.1化简的意义和最简标准.md",
     "2逻辑代数基础/2.5逻辑函数的表达式.md",
@@ -152,8 +130,6 @@
     "2逻辑代数基础/2.3逻辑代数中的公式.md",
     "2逻辑代数基础/2.4逻辑代数的基本规则.md",
     "2逻辑代数基础/2.6.2公式法化简.md",
-    "4组合逻辑电路/images/二进制数比较——逻辑电路.png",
-    "4组合逻辑电路/4.1.1组合逻辑电路的分析.md",
-    "2逻辑代数基础/2.6.4非完全描述逻辑函数的化简.md"
+    "4组合逻辑电路/images/二进制数比较——逻辑电路.png"
   ]
 }

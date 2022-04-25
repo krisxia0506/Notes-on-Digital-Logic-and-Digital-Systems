@@ -50,6 +50,31 @@
             }
           }
         ]
+      },
+      {
+        "id": "5ce53d6c3b8af135",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c950072e4172715",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "bce40a55a696c028",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4组合逻辑电路/4.2.1 中规模集成组合逻辑电路 编码器.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -60,11 +85,19 @@
     "type": "split",
     "children": [
       {
-        "id": "55029dbb3f60b6b1",
+        "id": "9da71c99a51cb586",
         "type": "tabs",
         "children": [
           {
-            "id": "c29055cfbb983862",
+            "id": "1d501ed869042dbb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "09a652d08e42e10e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -79,45 +112,13 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "79f0df25f5045854",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "1c950072e4172715",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "f9f83bf7d2b5a4b0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bce40a55a696c028",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "4组合逻辑电路/4.2.1 中规模集成组合逻辑电路 编码器.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 295
+    "width": 295,
+    "collapsed": true
   },
   "active": "7cfa1b0d51c51248",
   "lastOpenFiles": [
